@@ -5,3 +5,7 @@ Learning Java and Data Structures and Algorithms.
 Interested in software development and technology.
 
 Goal: become a highly skilled software engineer and contribute to meaningful projects.
+
+## Projects
+
+Planning to build software projects that help me improve my programming and problem-solving skills.
